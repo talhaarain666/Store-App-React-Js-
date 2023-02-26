@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.textEllipsis {
+  white-space: nowrap; 
+  width: 100%; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+}
+.boxesShadow:hover {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.orangeColor{
+  color: rgb(249, 164, 28);
+}
